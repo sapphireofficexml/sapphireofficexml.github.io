@@ -1,0 +1,14 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: rgba(255, 200, 255, 0.9);
+  color: rgba(80, 0, 80, 1);
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  text-align: center;
+}
+header h1 {
+  font-size: 3em;
+}
